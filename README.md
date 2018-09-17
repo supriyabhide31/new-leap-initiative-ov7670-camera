@@ -1,1 +1,1 @@
-# new-leap-initiative-ov7670-camera
+OV7670-camera
